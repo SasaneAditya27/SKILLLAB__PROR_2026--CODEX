@@ -409,7 +409,7 @@ Suggested sequence:
 - error handling.
 
 **Insert image below:**  
-<img width="1600" height="1200" alt="image" src="images/FLOWCHART.jpeg" />
+<img width="1600" height="1200" alt="image" src="images/FLOWCHART .jpeg" />
 
 
 
